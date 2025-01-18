@@ -1,0 +1,116 @@
+{
+  "images" : [
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本4.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本7 9.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本7 10.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本7 11.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本7 8.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本7 7.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00 2.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本7 6.png",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本7 5.png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本7 4.png",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本7 3.png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本7 2.png",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本7 1.png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本6.png",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本7.png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本2.png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "83.5x83.5"
+    },
+    {
+      "filename" : "螢幕截圖 2025-01-22 下午8.31.00副本3.png",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
