@@ -1,10 +1,3 @@
-//
-//  Classifier.swift
-//  SeeFood
-//
-//  Created by Leon Wei on 5/31/21.
-//
-
 import CoreML
 import Vision
 import CoreImage

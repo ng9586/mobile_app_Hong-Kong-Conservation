@@ -70,7 +70,7 @@ extension LocationDetailView {
                 .font(.subheadline)
                 .foregroundColor(.secondary)
             if let url = URL(string: location.link) {
-                Link("Read more on wekioedia ", destination: url)
+                Link("Read more on wekioedia and website ", destination: url)
                     .tint(.blue)
                     .font(.headline)
             }

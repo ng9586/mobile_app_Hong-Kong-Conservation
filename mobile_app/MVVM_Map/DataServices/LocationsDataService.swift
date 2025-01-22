@@ -15,7 +15,7 @@ class LocationsDataService {
             imageNames: [
                 "pokfulam-farm",
             ],
-            link: "https://www.pokfulamfarm.com/"
+            link: "https://www.pokfulamfarm.org.hk/"
         ),
 
         Location(

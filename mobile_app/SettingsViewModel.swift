@@ -1,10 +1,3 @@
-//
-//  SettingsViewModel.swift
-//  RecycleSmartGuide
-//
-//  Created by Chris Min on 29/04/2024.
-//
-
 import SwiftUI
 
 
