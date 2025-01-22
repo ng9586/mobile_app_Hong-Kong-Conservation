@@ -1,7 +1,7 @@
 import Foundation
 
 class GPTNetwork {
-    private let APIKey = "sk-c8hOf4NQ6c7eio6OperxMIrJyKouzmyz4isCx27jXX0dCCIB" // 請替換為您的實際 API 密鑰
+    private let APIKey = "your-api-key" // 請替換為您的實際 API 密鑰
     private let url = "https://api.chatanywhere.tech/v1/chat/completions"
     
     func getGPTResponse(messages: [[String: String]]) async throws -> String {
