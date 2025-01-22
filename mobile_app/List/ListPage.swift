@@ -12,7 +12,7 @@ struct ListPage: View {
         NavigationView {
             VStack {
                 List {
-                    ForEach(listItems, id: \.id) { item in // 使用 id 來識別項目
+                    ForEach(listItems, id: \.id) { item in // id識別
                         Text(item.name)
                             .foregroundColor(Color(item.color))
                             .onTapGesture {
